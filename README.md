@@ -1,4 +1,6 @@
 ![logo](./docs/logo.png)
+[![Build status](https://api.travis-ci.org/Dong-Chan/alloydb.svg?branch=master)](https://travis-ci.org/Dong-Chan/alloydb
+)
 ## What is AlloyDB?
 
 AlloyDB is a distributed SQL database.
