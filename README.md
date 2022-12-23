@@ -13,13 +13,13 @@ Grow AlloyDB as your business grows. You can increase the capacity simply by add
 Evolve AlloyDB schemas as your requirement evolves. You can add new columns and indices without stopping or affecting the on-going operations.
 
 - __Consistent distributed transactions__  
-Think AlloyDB as a single-machine RDBMS. You can start a transaction that acrosses multiple machines without worrying about consistency. AlloyDB makes your application code simple and robust.
+Think of AlloyDB as a single-machine RDBMS. You can start a transaction that executes across multiple machines without worrying about consistency. AlloyDB makes your application code simple and robust.
 
 - __Compatible with MySQL protocol__  
 Use AlloyDB as MySQL. You can replace MySQL with AlloyDB to power your application without changing a single line of code in most cases.
 
 - __Written in Go__  
-Enjoy AlloyDB as much as we love Go. We believe Go code is both easy and enjoyable to work with. Go makes us improve AlloyDB fast and makes it easy to dive into the codebase.
+Enjoy AlloyDB as much as we love Go. We believe Go code is both easy and enjoyable to work with. Go helps us improve AlloyDB quickly and makes it easy to dive into the codebase.
 
 - __Multiple storage engine support__  
 Power AlloyDB with your most favorite engines. AlloyDB supports most of the popular storage engines in single-machine mode. You can choose from goleveldb, LevelDB, RocksDB, LMDB, BoltDB and even more to come.
